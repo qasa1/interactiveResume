@@ -1,7 +1,7 @@
 # Interactive Resume
 
 This is a simple one page resume designed to display my skills and work experience.
-The project mostly uses javascripts to pull relevant information from json objects and display it accordingly
+The project  uses javascript to pull relevant information from json objects and displays it accordingly
 
 Created with the following tools and technologies <br></br>
 1.HTML<br>
